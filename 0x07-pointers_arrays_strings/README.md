@@ -1,0 +1,2 @@
+0x07-pointers_arrays_stringsreadme>README.md
+echo 0x07-pointers_arrays_stringsreadme
